@@ -1,1 +1,2 @@
-# Study notes for NodeJS - The Complete Guide (MVC, REST APIs, GraphQL, Deno)
+# Study notes for Node JS: Advanced Concepts, from Stephen Grider
+
